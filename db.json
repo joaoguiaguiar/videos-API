@@ -5,7 +5,7 @@
         "titulo": "Curso Bootstrap 5 Completo",
         "descricao": "Aprenda a criar layouts responsivos com Bootstrap",
         "url": "https://youtu.be/jJUpJA1GJHw?si=roCHEYDa2r2-qK4x",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://img.youtube.com/vi/jJUpJA1GJHw/hqdefault.jpg",
         "categoria": "Front-end"
       },
       {
@@ -13,7 +13,7 @@
         "titulo": "Curso Java Completo",
         "descricao": "Tudo sobre Java, do básico ao avançado",
         "url": "https://youtu.be/SIFkaBzYAyc?si=JvLjH23HEBQORWMV",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://img.youtube.com/vi/SIFkaBzYAyc/hqdefault.jpg",
         "categoria": "Back-end"
       },
       {
@@ -21,7 +21,7 @@
         "titulo": "Curso React para Iniciantes",
         "descricao": "Aprenda React de forma prática",
         "url": "https://youtu.be/hd2B7XQAFls?si=xiG8qACqYx--1qJB",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://youtu.be/hd2B7XQAFls?si=xiG8qACqYx--1qJB",
         "categoria": "Front-end"
       },
       {
@@ -29,7 +29,7 @@
         "titulo": "Curso Node Completo",
         "descricao": "Aprenda Node.js e crie aplicações escaláveis",
         "url": "https://youtu.be/hHM-hr9q4mo?si=3Pe3hBGsNWsku7-w",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://img.youtube.com/vi/hHM-hr9q4mo/hqdefault.jpg",
         "categoria": "Back-end"
       },
       {
@@ -45,7 +45,7 @@
         "titulo": "Curso de CSS para Iniciantes 2024",
         "descricao": "Aprenda CSS com exercícios práticos",
         "url": "https://youtu.be/ZkAeajAlfgM?si=D3co7H77HafJj9At",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://img.youtube.com/vi/ZkAeajAlfgM/hqdefault.jpg",
         "categoria": "Front-end"
       },
       {
@@ -53,7 +53,7 @@
         "titulo": "SQL // Dicionário do Programador",
         "descricao": "Aprenda os fundamentos do SQL",
         "url": "https://youtu.be/kMznyI7r2Tc?si=5XX4LR1ILbfMXD7Z",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://img.youtube.com/vi/kMznyI7r2Tc/hqdefault.jpg",
         "categoria": "Banco de dados"
       },
       {
@@ -61,64 +61,64 @@
         "titulo": "Curso Python Completo",
         "descricao": "Tudo sobre Python do básico ao avançado",
         "url": "https://youtu.be/g_R_Asf6Co0?si=rG-A6bofgZD4ZzAl",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "imagem": "https://img.youtube.com/vi/g_R_Asf6Co0/hqdefault.jpg",
         "categoria": "Back-end"
       },
       {
         "id": 9,
         "titulo": "Curso HTML Completo",
         "descricao": "Aprenda HTML do zero com esse curso completo",
-        "url": "https://youtu.be/ZkAeajAlfgM?si=pE9SRJHE4ifSJ_ZS",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
+        "url": "https://youtu.be/nPEpaft1y1k?si=Xk1vl39zmCe-UtQy",
+        "imagem": "https://img.youtube.com/vi/nPEpaft1y1k/hqdefault.jpg",
         "categoria": "Front-end"
       },
       {
-        "id": 10,
-        "titulo": "Curso Vue.js",
-        "descricao": "Aprenda Vue.js do zero com esse curso",
-        "url": "https://youtu.be/cSa-SMVMGsE?si=x-4c92v-IL1PgXRc",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
-        "categoria": "Front-end"
-      },
-      {
-        "id": 11,
-        "titulo": "Curso MySQL: Instalando MySQL e Workbench",
-        "descricao": "Aprenda como instalar e configurar MySQL e Workbench",
-        "url": "https://youtu.be/s0YoPLbox40?si=l8L383CwG8W4zRL4",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
-        "categoria": "Banco de dados"
-      },
-      {
-        "id": 12,
-        "titulo": "Curso JavaScript Completo",
-        "descricao": "Aprenda JavaScript de maneira completa",
-        "url": "https://youtu.be/McKNP3g6VBA?si=f4uryRKa-jrHRmMG",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
-        "categoria": "Front-end"
-      },
-      {
-        "id": 13,
-        "titulo": "Entenda Lógica de Programação e Algoritmos",
-        "descricao": "Saiba o que são lógica de programação e algoritmos",
-        "url": "https://youtu.be/JaTf3dhx464?si=c1c0xvEdRXocmbFW",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
-        "categoria": "Desenvolvedor de Software"
-      },
-      {
-        "id": 14,
-        "titulo": "O que é API? REST e RESTful?",
-        "descricao": "Descubra as diferenças entre REST e RESTful",
-        "url": "https://youtu.be/ghTrp1x_1As?si=P4tlHUaDTtSSuQ0E",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
-        "categoria": "Back-end"
-      },
-      {
-        "id": 15,
-        "titulo": "DevOps // Dicionário do Programador",
-        "descricao": "Entenda os conceitos e práticas de DevOps",
-        "url": "https://youtu.be/iwf6kcvxeD4?si=gcMKLjR8url7XksO",
-        "imagem": "https://img.youtube.com/vi/3L8O3suA-wA/hqdefault.jpg",
-        "categoria": "DevOps"
-      }
+    "id": 10,
+    "titulo": "Curso Vue.js",
+    "descricao": "Aprenda Vue.js do zero com esse curso",
+    "url": "https://youtu.be/cSa-SMVMGsE?si=x-4c92v-IL1PgXRc",
+    "imagem": "https://img.youtube.com/vi/cSa-SMVMGsE/hqdefault.jpg",
+    "categoria": "Front-end"
+  },
+  {
+    "id": 11,
+    "titulo": "Curso MySQL: Instalando MySQL e Workbench",
+    "descricao": "Aprenda como instalar e configurar MySQL e Workbench",
+    "url": "https://youtu.be/s0YoPLbox40?si=l8L383CwG8W4zRL4",
+    "imagem": "https://img.youtube.com/vi/s0YoPLbox40/hqdefault.jpg",
+    "categoria": "Banco de dados"
+  },
+  {
+    "id": 12,
+    "titulo": "Curso JavaScript Completo",
+    "descricao": "Aprenda JavaScript de maneira completa",
+    "url": "https://youtu.be/McKNP3g6VBA?si=f4uryRKa-jrHRmMG",
+    "imagem": "https://img.youtube.com/vi/McKNP3g6VBA/hqdefault.jpg",
+    "categoria": "Front-end"
+  },
+  {
+    "id": 13,
+    "titulo": "Entenda Lógica de Programação e Algoritmos",
+    "descricao": "Saiba o que são lógica de programação e algoritmos",
+    "url": "https://youtu.be/JaTf3dhx464?si=c1c0xvEdRXocmbFW",
+    "imagem": "https://img.youtube.com/vi/JaTf3dhx464/hqdefault.jpg",
+    "categoria": "Desenvolvedor de Software"
+  },
+  {
+    "id": 14,
+    "titulo": "O que é API? REST e RESTful?",
+    "descricao": "Descubra as diferenças entre REST e RESTful",
+    "url": "https://youtu.be/ghTrp1x_1As?si=P4tlHUaDTtSSuQ0E",
+    "imagem": "https://img.youtube.com/vi/ghTrp1x_1As/hqdefault.jpg",
+    "categoria": "Back-end"
+  },
+  {
+    "id": 15,
+    "titulo": "DevOps // Dicionário do Programador",
+    "descricao": "Entenda os conceitos e práticas de DevOps",
+    "url": "https://youtu.be/iwf6kcvxeD4?si=gcMKLjR8url7XksO",
+    "imagem": "https://img.youtube.com/vi/iwf6kcvxeD4/hqdefault.jpg",
+    "categoria": "DevOps"
+  }
     ]
   }  
