@@ -50,6 +50,7 @@ O arquivo `db.json` contém os dados fictícios utilizados no DevStream:
   ]
 }
 
+```
 
 ## 🔗 Repositório do Projeto DevStream
 
