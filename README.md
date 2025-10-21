@@ -56,6 +56,6 @@ O arquivo `db.json` contém os dados fictícios utilizados no DevStream:
 
 Para ver o front-end que consome esta API, acesse o repositório do projeto:
 
-[https://github.com/joaoguiaguiar/devs-stream](h)
+[https://github.com/joaoguiaguiar/devs-stream](https://github.com/joaoguiaguiar/devs-stream)
 
 
