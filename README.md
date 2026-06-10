@@ -5,20 +5,8 @@ Seu objetivo é **simular uma API** utilizando o serviço [MyJSON Server](https:
 
 ---
 
-## 🧩 Contexto do Projeto
 
-O DevStream foi um projeto idealizado como estudo de caso para a aplicação dos conceitos vistos em sala, como:
-
-- Levantamento de requisitos funcionais e não funcionais  
-- Modelagem UML (casos de uso, atividades, sequência e classes)  
-- Planejamento e estruturação de sistemas  
-- Simulação de consumo de APIs com **Axios** e **MyJSON Server**
-
-Esta API, portanto, **não é real**, sendo utilizada apenas como apoio didático para o front-end do projeto DevStream, desenvolvido em **React + TypeScript**.
-
----
-
-## ⚙️ Sobre o MyJSON Server
+## Sobre o MyJSON Server
 
 O [MyJSON Server](https://my-json-server.typicode.com/) é uma ferramenta gratuita que permite hospedar um arquivo `db.json` diretamente no GitHub, simulando um backend REST sem necessidade de servidor.
 
